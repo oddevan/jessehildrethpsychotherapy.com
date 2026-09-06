@@ -16,9 +16,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "eleventy"
+    "build": "eleventy",
+    "dev": "eleventy --serve"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.1.6"
+    "@11ty/eleventy": "^3.1.6",
+    "sass": "^1.104.0"
   }
 }
