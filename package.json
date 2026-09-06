@@ -1,0 +1,24 @@
+{
+  "name": "jessehildrethpsychotherapy.com",
+  "version": "1.0.0",
+  "description": "This is a website!",
+  "homepage": "https://github.com/oddevan/jessehildrethpsychotherapy.com#readme",
+  "bugs": {
+    "url": "https://github.com/oddevan/jessehildrethpsychotherapy.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddevan/jessehildrethpsychotherapy.com.git"
+  },
+  "license": "CC-BY-3.0",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}

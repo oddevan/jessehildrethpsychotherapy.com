@@ -1,2 +1,4 @@
 .DS_store
 ._*
+_site
+node_modules
